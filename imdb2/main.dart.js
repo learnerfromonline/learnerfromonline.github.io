@@ -39143,7 +39143,7 @@ $1(a){return A.aDg()},
 $S:311}
 A.J8.prototype={
 O(a){var s=null
-return new A.y4(new A.H8(s),"Flutter Demo",A.ts(s,A.arQ(B.Y,s,s,B.jk),s),!1,s)}}
+return new A.y4(new A.H8(s),"IMDB Reviews",A.ts(s,A.arQ(B.Y,s,s,B.jk),s),!1,s)}}
 A.wt.prototype={
 ac(){return new A.Od(new A.As(B.k2,$.ai()),new A.xd())}}
 A.Od.prototype={
